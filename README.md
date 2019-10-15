@@ -5,7 +5,7 @@
 
 [] how to include images?
 
-[] Making a merge-conflict for mig selv
+[] Bum Bum
 
 [] Hope This Works
 
