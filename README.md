@@ -5,8 +5,11 @@
 
 [] how to include images?
 
+<<<<<<< HEAD
 [] Making a merge-conflict for mig selv
 
+=======
+>>>>>>> f36b1ed23d8d5e2cc3b7e42114aacb9b0b894d1b
 [] Hope This Works
 
 
